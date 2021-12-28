@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_of_star">60dp</dimen>
+    <dimen name="add_to_favourite">40dp</dimen>
+    <dimen name="image_view_play">60dp</dimen>
+    <dimen name="text_size_labels">14sp</dimen>
+</resources>
